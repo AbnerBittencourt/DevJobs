@@ -4,7 +4,7 @@
 EN => Web application developed to simulate a vacancy website for programmers, made for the purpose of studying back-end with JavaScript and Database with the possibility of adding new vacancies and consulting existing vacancies.</p>
 
 <div align="center" >
-  <img src="./github/pag1.gif" alt="home" height="425">
+  <img src="./github/pag.gif" alt="home" height="425">
   <img src="/github/add.PNG" alt="add" height="425">
   <img src="/github/app.gif" alt="add" height="425">
 </div>
