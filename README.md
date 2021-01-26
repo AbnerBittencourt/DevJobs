@@ -10,12 +10,6 @@ EN => Web application developed to simulate a vacancy website for programmers, m
 </div>
 
 
-## Installation
-
-PT-BR => Abra seu editor de texto desejado, abra o terminal na pasta do projeto, execute o comando "npm run dev" e após isso abra seu navegador e digite o endereço "localhost:3000".  
-
-EN => Open your desired text editor, open the terminal in the project folder, run the command "npm run dev" and after that open your browser and enter the address "localhost:3000".
-
 ## Technologies
 
 PT_BR => Esse projeto foi desenvolvido com as seguintes tecnologias: <br>
